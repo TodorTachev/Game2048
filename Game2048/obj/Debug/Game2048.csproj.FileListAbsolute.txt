@@ -1,0 +1,6 @@
+E:\Projects\CSharp\Advanced\Game2048\Game2048\bin\Debug\Game2048.exe.config
+E:\Projects\CSharp\Advanced\Game2048\Game2048\bin\Debug\Game2048.exe
+E:\Projects\CSharp\Advanced\Game2048\Game2048\bin\Debug\Game2048.pdb
+E:\Projects\CSharp\Advanced\Game2048\Game2048\obj\Debug\Game2048.csprojResolveAssemblyReference.cache
+E:\Projects\CSharp\Advanced\Game2048\Game2048\obj\Debug\Game2048.exe
+E:\Projects\CSharp\Advanced\Game2048\Game2048\obj\Debug\Game2048.pdb
